@@ -50,6 +50,16 @@ It enables users to explore data by region, product category, customer segment, 
 ### Dashboard View
 ![Dashboard Overview]<img width="1171" height="658" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/c5b11cae-7ed1-4102-a287-a13cd779edf8" />
 
+![Dashboard Overview CENTRAL] <img width="1166" height="658" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/4f2f0ce4-8079-41f2-be29-d3e867dfa7a1" />
+
+
+![Dashboard Overview EAST] <img width="1178" height="660" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/5d5fbfe3-0ec2-45b6-afb0-47714042cc21" />
+
+![Dashboard Overview SOUTH] <img width="1178" height="653" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/347a5252-36fa-4a5a-bd12-a464bfbb23b5" />
+
+![Dashboard Overview WEST <img width="1181" height="662" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/8cd57146-90ed-4011-a351-643841d16a82" />
+
+
 
 > 📌 Create a folder named `screenshots` in the repository and upload the dashboard image using the same file name.
 
